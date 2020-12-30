@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PhysicsQuiz</string>
+    <string name="trueString">True</string>
+    <string name="falseString">False</string>
+    <string name="correct_answer">Correct</string>
+    <string name="incorrect_answer">Incorrect</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="restart">Restart</string>
+    <string name="cheat">Cheat</string>
+</resources>
